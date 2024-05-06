@@ -8,7 +8,8 @@ This repository contains a collection of my work and projects, showcasing my ski
 
 ## Preview 🖼️
 
-![Untitled design (3)](https://github.com/manishkmr49/Portfolio---Manish-Kumar/assets/110106315/f8ad60bf-8421-44aa-8d54-406af39e8244)
+![Untitled design (1)](https://github.com/manishkmr49/Portfolio-Manish-Kumar/assets/110106315/410e22e3-dc60-4edd-af61-b2259d3ff1da)
+
 
 
 
